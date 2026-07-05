@@ -1,0 +1,8 @@
+## Objective
+- validate concept of differential flatness with numerical example(hovering, etc..)
+
+## convention
+1. function input 't' is always linspace
+    - this code doesn't suit for specific time
+2. first index is time series index
+3. last index is axis index
